@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Выслоух Алиса
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Выслоух Алиса
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -47,15 +47,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Учеба
+  - НММ
+  - КМК 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Математика и Механика
+    institution: РУДН
+    date_start: 2024-01-01
+    date_end: 2028-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
